@@ -1,7 +1,3 @@
-# 🏅 Sports Buddy
-
-### 🔗 [Live Demo](https://sport-buddy-daee1.web.app/)
-
 ## Find Your Perfect Sports Partner & Events!
 
 ![Sports Buddy App Screenshot - Homepage](public/assets/homepage_ss.png)
