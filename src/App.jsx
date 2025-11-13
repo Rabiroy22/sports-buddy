@@ -126,7 +126,7 @@ function App() {
 
             <footer className="main-footer">
                 <div className="container">
-                    <p>&copy; 2025 Sports Buddy. All rights reserved by AJ (https://github.com/Mr-aj33t).</p>
+                    <p>&copy; 2025 Sports Buddy. All rights reserved by Rabi Roy</p>
                 </div>
             </footer>
         </div>

@@ -143,13 +143,3 @@ Then open: http://localhost:5173/
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
-
----
-
-## 📧 Contact
-
-Developed by [AJ (Mr-aj33t)](https://github.com/Mr-aj33t)  
-Feel free to reach out via GitHub with suggestions or questions.
-
----
-
